@@ -10,7 +10,7 @@ function Home() {
       <Header/>
       <div className='h-[90vh] bg-cover bg-center  w-full  pr-[50px] flex items-center justify-end ' style={{backgroundImage:`url('${mainimg}')`}}>
         <div className='w-[35%] p-[50px_30px] bg-[#FFF3E3] flex flex-col items-start   '>
-          <h2 className='font-bold uppercase'>Latest Products</h2>
+          <h2 className='font-bold uppercase'>New Arrival</h2>
           <h1 className='font-bold text-4xl py-3 text-[#B88E2F]'>Discover Our <br/>New Collection </h1>
           <p className='text-[11px] font-bold pb-5'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.</p>
           <button className='bg-[#B88E2F] text-white px-8 py-3 uppercase text-[10px] font-bold ' >Buy Now</button>
@@ -18,7 +18,7 @@ function Home() {
       </div>
       <div className='bg-[#F5F5F5] py-[50px] '>
         <div className='text-center'> 
-       
+        <h2 className='font-bold text-[35px]'>Browse Our Categories</h2>
         </div>
         <div className='max-w-[1170px] mt-[25px] grid gap-5  grid-cols-3  py-5 m-auto'>
           { 
