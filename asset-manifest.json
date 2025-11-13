@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.144c52a1.css",
+    "main.js": "/static/js/main.822b4767.js",
+    "static/js/453.af178710.chunk.js": "/static/js/453.af178710.chunk.js",
+    "static/media/scandinavian-interior-mockup-wall-decal-background 1.jpg": "/static/media/scandinavian-interior-mockup-wall-decal-background 1.f1a6d6f6ad4c60f72dcc.jpg",
+    "static/media/Rectangle 1.png": "/static/media/Rectangle 1.2a4bf84e7f2471a004c7.png",
+    "static/media/image 101.png": "/static/media/image 101.b057f6e7031ed91966f1.png",
+    "static/media/image 100.png": "/static/media/image 100.3ad48d8fc271d0413704.png",
+    "static/media/image 106.png": "/static/media/image 106.28c80b16cbbc91838872.png",
+    "static/media/image 7.png": "/static/media/image 7.b7bafd0c82de37c72f0a.png",
+    "static/media/image 4.png": "/static/media/image 4.ca9e4edc7c75c0571275.png",
+    "static/media/Images (1).png": "/static/media/Images (1).870731ee479e49d59f67.png",
+    "static/media/image 6.png": "/static/media/image 6.4c13305fe86d1259a6ae.png",
+    "static/media/image 2.png": "/static/media/image 2.f976ca1f5345c49f8f1b.png",
+    "static/media/image 3.png": "/static/media/image 3.cf4b24a6b349919a8cda.png",
+    "static/media/image 1.png": "/static/media/image 1.0a00c4bb873f59783586.png",
+    "static/media/Images.png": "/static/media/Images.3f0dcc59cd2160df80bb.png",
+    "static/media/Vector (1).svg": "/static/media/Vector (1).451869459d43e0677fc119e730a5331d.svg",
+    "static/media/ci_grid-big-round.svg": "/static/media/ci_grid-big-round.f4fd34a4a7763f772537ad641cdf6fc8.svg",
+    "static/media/system-uicons_filtering.svg": "/static/media/system-uicons_filtering.a242fb14208aa185e2bc1f2ccf35de22.svg",
+    "static/media/bi_view-list.svg": "/static/media/bi_view-list.ed79aa93b793b36e62f9e2cb1d2b15a4.svg",
+    "static/media/xcross.svg": "/static/media/xcross.257e6b09ad0b8e3569311ff282221e1b.svg",
+    "index.html": "/index.html",
+    "main.144c52a1.css.map": "/static/css/main.144c52a1.css.map",
+    "main.822b4767.js.map": "/static/js/main.822b4767.js.map",
+    "453.af178710.chunk.js.map": "/static/js/453.af178710.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.144c52a1.css",
+    "static/js/main.822b4767.js"
+  ]
+}
